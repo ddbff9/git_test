@@ -1,1 +1,3 @@
-This is Dan's first git project!
+# git_test
+My first GitHub repo!
+Hello Odin!
